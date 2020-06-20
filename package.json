@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "build": "npm run style && npm run script",
+    "style": "sass style.scss style.css",
+    "script": "tsc index.ts"
+  }
+}
