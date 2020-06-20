@@ -1,5 +1,4 @@
 // Import stylesheets
-import './style.scss';
 
 /*
 GAME RULES:
